@@ -14,7 +14,7 @@ A weather app which displays the current and future(5 days) weather data.
 
 5. Navigate to <https://prodeveloper2023.github.io/Weather-Dashboard/> and you will find that new webpage has gone live!
 
-## Usage
+## Usage
 
 - When users load the weather dashboard, an input area is displayed for them to search for a city.
 
@@ -26,7 +26,7 @@ A weather app which displays the current and future(5 days) weather data.
 
 - Users can click on a city in the search history to check weather conditions for that city again.
 
-![A user clicks on search after correct city name and weather data get displayed](https://prodeveloper2023.github.io/Weather-Dashboard/)
+![A user clicks on search after correct city name and weather data get displayed](https://github.com/prodeveloper2023/Weather-Dashboard/blob/main/assets/image/Screenshot%202024-01-16%20at%201.01.26%20pm.png)
 
 ## Technologies
 
