@@ -1,0 +1,96 @@
+header{
+    background-color: blue;
+    background: linear-gradient(90deg, #6495ED, 50%, #0D2241);
+    padding: 0.6rem 0;
+    margin-bottom: 0.3rem;
+}
+
+h1, h2, h3, h4, p, .btn {
+    font-weight: bold;
+}
+
+h1 {
+    font-size: 1.8rem;
+    color: white;
+    text-align: end;
+    margin-right: 25%;
+}
+
+h2 {
+    font-size: 1.5rem;
+    padding: 0 0 0.2rem 0.4rem;
+    margin-right: 1.2rem;
+}
+
+h3 {
+    font-size: 1.2rem;
+}
+
+h4 {
+    font-size: 1rem;
+    color: white;
+}
+
+#search-city {
+    padding: 0.3rem;
+    margin: 0 0 0.4rem 0.4rem;
+    width: 90%;
+}
+
+.btn {
+    padding: 0.3rem;
+    margin: 0.4rem 0 0.4rem 0.4rem;
+    width: 90%;
+}
+
+.search {
+    color: white;
+    background-color: #6495ED;
+}
+
+#search-list {
+    padding-left: 0;
+}
+
+.search-item {
+    background-color: lightgray;
+}
+
+hr {
+    margin: 0.4rem 0 0.4rem 0.4rem;
+    width: 90%;
+}
+
+.weather-forecast-container {
+    margin: 0.5rem 0;
+}
+
+.current-weather-container {
+    padding: 0.3rem 0;
+    margin: 0.4rem 0 0.8rem 0;
+}
+
+img {
+    width: 50px;
+    height: 50px;
+}
+
+.weather-forecast {
+    padding: 0.2rem 0;
+    margin-right: 1.4rem;
+    margin-bottom: 1rem;
+    background-color:cornflowerblue;
+}
+
+.date, .icon, .temp, .wind, .humidity {
+    padding-left: 0.4rem;
+    margin-bottom: 0.6rem;
+}
+
+.weather-forecast .temp, .weather-forecast .wind, .weather-forecast .humidity {
+    color: white;
+}
+
+.current-weather-container {
+    border: solid 0.1rem;
+}
